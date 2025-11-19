@@ -1,19 +1,14 @@
----
-layout: page
-title: Welcome to Lagrange!
-permalink: /about
----
+# Sobre Crónicas del Otro Mundo
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+**Crónicas del Otro Mundo** nació de la fascinación por lo desconocido: los mitos antiguos, los susurros en la oscuridad y las leyendas que el tiempo no ha logrado borrar.
 
-### Getting Started
+Aquí encontrarás historias breves que exploran tres grandes géneros:
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+- **Fantasía**: reinos mágicos, criaturas legendarias y destinos entrelazados con el destino de los dioses.
+- **Terror**: no el del grito fácil, sino el que se instala en la mente y crece con cada sombra.
+- **Prehistoria**: relatos inspirados en los albores de la humanidad, cuando el mundo era vasto, misterioso y habitado por bestias colosales.
 
-### Example Content
+Todos los relatos son originales, escritos con pasión y un toque de locura poética.  
+¿Te atreves a leerlos antes de que anochezca?
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+— *El Archivista de Sombras*

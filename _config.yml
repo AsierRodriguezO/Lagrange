@@ -20,9 +20,26 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Lagrange'
-description:	       'a minimalist Jekyll theme'
-author:              'Paul Le'
+title:		           'LagrangeAsier'
+description:	       'Primer tema lagrange Jekyll personalizado por Asier Rodriguez Ormaechea'
+author:              'Asier Rodriguez Ormaechea'
+url:                 'https://AsierRodriguezO.github.io/lagrange' # the base hostname & protocol for your site
+baseurl:             '/lagrange' 
+language:            'ES-ES'
+copyright:           '2025, Asier'
+# Configuración del tema
+theme: lagrange
+
+# Configuración del blog
+paginate: 5
+paginate_path: "/blog/page:num"
+
+# Redes sociales (algunos temas usan esto)
+github_username: "AsierRodriguezO"
+
+# Construcción
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
