@@ -28,7 +28,7 @@ baseurl:             '/lagrange'
 language:            'ES-ES'
 copyright:           '2025, Asier'
 # Configuración del tema
-theme: lagrange
+theme: Lagrange
 
 # Configuración del blog
 paginate: 5
