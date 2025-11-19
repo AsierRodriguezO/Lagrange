@@ -27,7 +27,6 @@ url:                 'https://AsierRodriguezO.github.io/lagrange' # the base hos
 baseurl:             '/lagrange' 
 language:            'ES-ES'
 copyright:           '2025, Asier'
-remote_theme: icarus-blog/lagrange@v2.1.0
 # Configuración del blog
 paginate: 5
 paginate_path: "/blog/page:num"
@@ -38,8 +37,7 @@ github_username: "AsierRodriguezO"
 # Construcción
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title/
-plugins:
-  - jekyll-remote-theme
+
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
